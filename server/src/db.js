@@ -38,14 +38,14 @@ export const books = [
     description: `Harry Potter and the Philosopher's Stone is the first novel in the Harry Potter series and J. K. Rowling's debut novel, first published in 1997 by Bloomsbury. It was published in the United States as Harry Potter and the Sorcerer's Stone by Scholastic Corporation in 1998. The plot follows Harry Potter, a young wizard who discovers his magical heritage as he makes close friends and a few enemies in his first year at the Hogwarts School of Witchcraft and Wizardry. With the help of his friends, Harry faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just a year old.`,
   },
   {
-    id: 5,
+    id: 6,
     title: 'Harry Potter and the Chamber of Secrets',
     image: 'http://i.imgur.com/LD6gNkL.jpg',
     authorId: 2,
     description: `Harry Potter and the Chamber of Secrets is the second novel in the Harry Potter series, written by J. K. Rowling. The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the "Chamber of Secrets" has been opened and that the "heir of Slytherin" would kill all pupils who do not come from all-magical families. These threats are found after attacks which leave residents of the school "petrified" (frozen like stone). Throughout the year, Harry and his friends Ron Weasley and Hermione Granger investigate the attacks.`,
   },
   {
-    id: 6,
+    id: 7,
     title: 'Harry Potter and the Prisoner of Azkaban',
     image: 'http://i.imgur.com/ItzHeyC.jpg',
     authorId: 2,
